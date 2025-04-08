@@ -154,13 +154,14 @@ body {
 
 #landing {
     height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #welcome-text {
-    position: relative;
     color: white;
     text-align: center;
-    line-height: 350px;
     vertical-align: middle;
     font-size: 60px;
     font-style: italic;
