@@ -184,13 +184,13 @@ body {
 
 @media only screen and (max-width: 800px) {
     #domain-name {
-        display: none;
+        display: none !important;
     }
     #search-bar {
-        display: none;
+        display: none !important;
     }
     #logo {
-        display: none;
+        display: none !important;
     }
     .navbar {
         justify-content: center;
