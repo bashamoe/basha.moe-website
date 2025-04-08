@@ -202,4 +202,9 @@ body {
     .navbar {
         justify-content: space-around;
     }
+    
+    #welcome-text {
+        margin-right: 5px;
+        font-size: 53px
+    }
 }
